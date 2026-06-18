@@ -5,7 +5,7 @@ A curated **Flowy** Flow: hand-picked best-of-breed frontend skills + a `FLOW.md
 ## Install
 
 ```
-/flowy frontend-design-flow
+/flowy:frontend-design-flow
 ```
 
 ## What it routes
