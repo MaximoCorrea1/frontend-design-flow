@@ -1,0 +1,7 @@
+{
+  "name": "frontend-design-flow",
+  "owner": "MaximoCorrea1",
+  "plugins": [
+    { "name": "frontend-design-flow", "source": "./", "description": "Frontend Design-Quality curated Flow." }
+  ]
+}
