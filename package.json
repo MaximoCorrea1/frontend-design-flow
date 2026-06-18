@@ -1,5 +1,0 @@
-{
-  "name": "frontend-design-flow",
-  "private": true,
-  "scripts": { "test": "bun test" }
-}
