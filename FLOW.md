@@ -1,6 +1,7 @@
 # FLOW.md: Frontend Design-Quality
 
-> Routes frontend UI work so the right skill fires at each phase: build the interface with genuine design quality, review the rendered result for visual polish, then audit it against WCAG for accessibility.
+> Build interfaces that actually look good. This Flow helps you design with real polish, reviews how the result renders, then checks it works for everyone (accessibility).
+
 > Skills vendored from Anthropic (Apache-2.0), Jezweb (MIT), and Addy Osmani (MIT) — see ATTRIBUTION.md. Routing by Flowy.
 
 <!-- The Flowy engine supplies the universal contract (announce ritual, invoke/READ,

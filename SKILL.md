@@ -1,6 +1,6 @@
 ---
 name: frontend-design-flow
-description: Hand-picked frontend skills + a FLOW.md router. Build with design quality, review the result, audit accessibility.
+description: Build UI that looks good and works for everyone: design with polish, review how it renders, then check accessibility.
 version: 0.1.0
 license: MIT
 domain: frontend
